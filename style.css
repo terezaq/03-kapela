@@ -9,3 +9,11 @@ header {
     color: whitesmoke;
     height: 50vh;
 }
+
+.card-body {
+    height: 15vh;
+}
+
+.card-title {
+    height: 6.5vh;
+}

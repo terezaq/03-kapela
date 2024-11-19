@@ -1,7 +1,14 @@
 :root {
-    --red: rgb(238, 52, 52);
+    --bs-danger: #a7000b;
 }
 
+.bg-danger {
+    background-color: #a7000b !important;
+}
+
+.nav-link:hover {
+    color: #a7000b;
+}
 
 header {
     background-image: url(./img/metgala.webp);
